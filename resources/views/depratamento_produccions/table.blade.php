@@ -1,0 +1,1 @@
+{!! $grid->show('grid-table') !!}
